@@ -8,7 +8,7 @@ Table of Contents
   
 ## Firewall, Gateway and appliances
 
-[BrazilFW](http://www.brazilfw.com.br) ([`Free`]) Mini Linux distribution designed to be used as a Firewall and Router that runs easily on older computers.
+[BrazilFW](http://www.brazilfw.com.br) (`Free`) Mini Linux distribution designed to be used as a Firewall and Router that runs easily on older computers.
 
 [ClearOS Community](https://www.clearos.com/clearfoundation/software/clearos-7-community) (`Free`) Linux distribuiton designed for use in small and medium enterprises as a network gateway and network server with a web-based administration interface.
 
