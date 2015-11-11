@@ -3,11 +3,22 @@ This is the awesome list with all open source and free applications that you can
 
 Table of Contents
 =================
-
+  - [Desktop utilities](#desktop-utilities)
   - [Firewall, Gateway and appliances](#firewall-gateway-and-appliances)
   - [Mail](#mail)
+
+## Desktop utilities
+
+#### Windows
+
+#### Linux
+
+#### Mac
+
+#### All (yeah!)
+
   
-## Firewall, Gateway and appliances
+## Firewall, Gateway and appliances - [Top](#table-of-contents)
 
 [BrazilFW](http://www.brazilfw.com.br) (`Free`) Mini Linux distribution designed to be used as a Firewall and Router that runs easily on older computers.
 
@@ -36,17 +47,17 @@ Table of Contents
 [Zentyal Server](http://www.zentyal.org/server/) ([`Opensource`](https://github.com/Zentyal/zentyal), [`Forum`](https://forum.zentyal.org)) The on-premise Mail and Directory server.
 
 
-## Mail
+## Mail - [Top](#table-of-contents)
 
 #### Server
 
 [hMailServer](https://www.hmailserver.com) ([`Opensource`](https://github.com/hmailserver/hmailserver)) Opensource mail server for Microsoft Windows.
 
-#### MTA
+#### MTA - [Mail](#mail)
 
-#### Client
+#### Client - [Mail](#mail)
 
-#### Webclient
+#### Webclient - [Mail](#mail)
 
 [AfterLogic WebMail Lite](http://www.afterlogic.org/webmail-lite) ([`Opensource`](https://github.com/afterlogic/webmail-lite), [`Demo`](https://lite.afterlogic.com)) Fast and easy-to-use webmail front-end for your existing IMAP mail server, Plesk or cPanel.
 
