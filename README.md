@@ -64,13 +64,10 @@ Table of Contents
 [hMailServer](https://www.hmailserver.com) ([`Opensource`](https://github.com/hmailserver/hmailserver)) Opensource mail server for Microsoft Windows.
 
 #### MTA
-###### [Mail](#mail)
 
 #### Client
-###### [Mail](#mail)
 
 #### Webclient
-###### [Mail](#mail)
 
 [AfterLogic WebMail Lite](http://www.afterlogic.org/webmail-lite) ([`Opensource`](https://github.com/afterlogic/webmail-lite), [`Demo`](https://lite.afterlogic.com)) Fast and easy-to-use webmail front-end for your existing IMAP mail server, Plesk or cPanel.
 
