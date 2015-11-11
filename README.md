@@ -11,14 +11,23 @@ Table of Contents
 
 #### Windows
 
+[CrystalDiskInfo](http://crystalmark.info/software/CrystalDiskInfo/index-e.html) ([`Opensource`](http://crystalmark.info/download/index-e.html)) A HDD/SSD utility software which supports S.M.A.R.T. and a part of USB-HDD.
+
+[CurrPorts](http://www.nirsoft.net/utils/cports.html) (`Free`) CurrPorts is network monitoring software that displays the list of all currently opened TCP/IP and UDP ports on your local computer.
+
+[Rufus](https://rufus.akeo.ie) ([`Opensource`](https://github.com/pbatard/rufus)) The Reliable USB Formatting Utility.
+
 #### Linux
 
 #### Mac
 
 #### All (yeah!)
 
+[Synergy](http://synergy-project.org) ([`Opensource`](https://github.com/synergy/synergy)) Synergy combines your desktop devices together in to one cohesive experience. It's software for sharing your mouse and keyboard between multiple computers on your desk. It works on Windows, Mac OS X and Linux.
+
   
-## Firewall, Gateway and appliances - [Top](#table-of-contents)
+## Firewall, Gateway and appliances
+###### [Top](#table-of-contents)
 
 [BrazilFW](http://www.brazilfw.com.br) (`Free`) Mini Linux distribution designed to be used as a Firewall and Router that runs easily on older computers.
 
@@ -47,7 +56,8 @@ Table of Contents
 [Zentyal Server](http://www.zentyal.org/server/) ([`Opensource`](https://github.com/Zentyal/zentyal), [`Forum`](https://forum.zentyal.org)) The on-premise Mail and Directory server.
 
 
-## Mail - [Top](#table-of-contents)
+## Mail
+###### [Top](#table-of-contents)
 
 #### Server
 
