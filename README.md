@@ -121,6 +121,16 @@ Table of Contents
 
 #### Client
 
+[NaughtySVN](http://naughtysvn.tigris.org) ([`Opensource`](https://github.com/kcaalexander/NaughtySVN)) A Nautilus extension for Subversion.
+
+[PagaVCS](https://code.google.com/p/pagavcs) ([`Opensource`](https://github.com/gborp/pagavcs)) PagaVCS is a Nautilus, Thunar and mugCommander integrated TortoiseSVN clone, Subversion GUI client for Linux desktop.
+
+[RabbitVCS](http://rabbitvcs.org) ([`Opensource`](https://github.com/rabbitvcs/rabbitvcs)) RabbitVCS is a set of graphical tools written to provide simple and straightforward access to the version control systems you use.
+
+[TortoiseGit](https://tortoisegit.org) ([`Opensource`](https://gitlab.com/tortoisegit/tortoisegit/tree/master)) TortoiseGit provides overlay icons showing the file status, a powerful context menu for Git and much more!
+
+[TortoiseSVN](https://tortoisesvn.net) ([`Opensource`](https://sourceforge.net/p/tortoisesvn/code/HEAD/tree/)) An Apache SVN client, implemented as a Windows shell extension.
+
 #### Server
 
 [Bonobo Git Server](https://bonobogitserver.com) ([`Opensource`](https://github.com/jakubgarfield/Bonobo-Git-Server)) Set up your own self hosted git server on IIS for Windows. Manage users and have full control over your repositories with a nice user friendly graphical interface.
@@ -134,5 +144,3 @@ Table of Contents
 [Kallithea](https://kallithea-scm.org) ([`Opensource`](https://kallithea-scm.org/repos/kallithea), [`Demo`](https://kallithea-scm.org/repos/)) Free Software source code management system that supports two leading version control systems, Mercurial and Git, and has a web interface that is easy to use for users and admins.
 
 [SCM Manager](https://www.scm-manager.org) ([`Opensource`](https://bitbucket.org/sdorra/scm-manager/)) The easiest way to share and manage your Git, Mercurial and Subversion repositories over http.
-
-
