@@ -107,4 +107,32 @@ Table of Contents
 
 #### VCS
 
+[Bazaar](http://bazaar.canonical.com) ([`Opensource`](https://code.launchpad.net/bzr)) Distributed VCS that enables easy collaborative development. One of Bazaar's strengths is its adaptibility to different work flows, centralized, distributed or anything in between.
+
+[CVS](https://savannah.nongnu.org/projects/cvs) ([`Opensource`](http://web.cvs.savannah.gnu.org/viewvc/?root=cvs)) Concurrent Versions System is a version control system, an important component of Source Configuration Management (SCM). Using it, you can record the history of sources files, and documents.
+
+[Fossil](https://www.fossil-scm.org) ([`Opensource`](https://www.fossil-scm.org/index.html/dir?ci=tip)) Simple, high-reliability, distributed software configuration management system with these advanced features, Integrated Bug Tracking, Wiki, and Technotes, Built-in Web Interface, Self-Contained, Autosync and more.
+
+[Git](https://www.git-scm.com) ([`Opensource`](https://github.com/git/git)) Free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+[Mercurial](https://www.mercurial-scm.org) ([`Opensource`](http://hg.intevation.org/mercurial)) Mercurial is a free, distributed source control management tool. It efficiently handles projects of any size and offers an easy and intuitive interface.
+
+[Subversion](https://subversion.apache.org) ([`Opensource`](https://github.com/apache/subversion)) Open-source, centralized version control system characterized by its reliability as a safe haven for valuable data.
+
 #### Client
+
+#### Server
+
+[Bonobo Git Server](https://bonobogitserver.com) ([`Opensource`](https://github.com/jakubgarfield/Bonobo-Git-Server)) Set up your own self hosted git server on IIS for Windows. Manage users and have full control over your repositories with a nice user friendly graphical interface.
+
+[Gitblit](http://gitblit.com) ([`Opensource`](https://github.com/gitblit/gitblit)) Gitblit is an open-source, pure Java stack for managing, viewing, and serving Git repositories.
+
+[Gitlab Community](http://gitlab.org) ([`Opensource`](https://gitlab.com/gitlab-org/gitlab-ce/tree/master#README), [`Demo`](https://gitlab.com/users/sign_in)) Web-based Git repository manager with wiki and issue tracking features.
+
+[Gogs](http://gogs.io) ([`Opensource`](https://github.com/gogits/gogs), [`Demo`](https://try.gogs.io)) Gogs (Go Git Service) is a painless self-hosted Git service.
+
+[Kallithea](https://kallithea-scm.org) ([`Opensource`](https://kallithea-scm.org/repos/kallithea), [`Demo`](https://kallithea-scm.org/repos/)) Free Software source code management system that supports two leading version control systems, Mercurial and Git, and has a web interface that is easy to use for users and admins.
+
+[SCM Manager](https://www.scm-manager.org) ([`Opensource`](https://bitbucket.org/sdorra/scm-manager/)) The easiest way to share and manage your Git, Mercurial and Subversion repositories over http.
+
+
