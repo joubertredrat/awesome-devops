@@ -12,6 +12,8 @@ Table of Contents
 
 #### Windows
 
+[AxCrypt](http://www.axantum.com/AxCrypt/) (`Free`) AxCrypt is the leading open source file encryption software for Windows. It integrates seamlessly with Windows to compress, encrypt, decrypt, store, send and work with individual files.
+
 [CrystalDiskInfo](http://crystalmark.info/software/CrystalDiskInfo/index-e.html) ([`Opensource`](http://crystalmark.info/download/index-e.html)) A HDD/SSD utility software which supports S.M.A.R.T. and a part of USB-HDD.
 
 [CurrPorts](http://www.nirsoft.net/utils/cports.html) (`Free`) CurrPorts is network monitoring software that displays the list of all currently opened TCP/IP and UDP ports on your local computer.
