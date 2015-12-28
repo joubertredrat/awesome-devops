@@ -90,7 +90,7 @@ Table of Contents
 
 #### All-in-one
 
-[Axigen](https://www.axigen.com/mail-server/free) (`Free`, [`Demo`](https://www.axigen.com/mail-server/free)) The Axigen Free Mail Server is a great alternative to open source. It is a turnkey messaging solution, perfect for small & micro businesses, integration projects or test environments.
+[Axigen](https://www.axigen.com/mail-server/free) (`Free`, [`Demo`](https://www.axigen.com/mail-server/free/#product=webadmin)) The Axigen Free Mail Server is a great alternative to open source. It is a turnkey messaging solution, perfect for small & micro businesses, integration projects or test environments.
 
 [Citadel](http://www.citadel.org) ([`Opensource`](http://code.citadel.org)) Easy, versatile, and powerful, thanks to its exclusive "rooms" based architecture.
 
