@@ -26,6 +26,8 @@ Table of Contents
 
 #### All (yeah!)
 
+[OWASP ZAP](https://www.owasp.org) ([`Opensource`](https://github.com/zaproxy/zaproxy)) The OWASP Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications.
+
 [Synergy](http://synergy-project.org) ([`Opensource`](https://github.com/synergy/synergy)) Synergy combines your desktop devices together in to one cohesive experience. It's software for sharing your mouse and keyboard between multiple computers on your desk. It works on Windows, Mac OS X and Linux.
 
   
@@ -88,7 +90,7 @@ Table of Contents
 
 #### All-in-one
 
-[Axigen](https://www.axigen.com/mail-server/free) (`Free`, [`Demo`](https://www.axigen.com/mail-server/free)) The Axigen Free Mail Server is a great alternative to open source. It is a turnkey messaging solution, perfect for small & micro businesses, integration projects or test environments.
+[Axigen](https://www.axigen.com/mail-server/free) (`Free`, [`Demo`](https://www.axigen.com/mail-server/free/#product=webadmin)) The Axigen Free Mail Server is a great alternative to open source. It is a turnkey messaging solution, perfect for small & micro businesses, integration projects or test environments.
 
 [Citadel](http://www.citadel.org) ([`Opensource`](http://code.citadel.org)) Easy, versatile, and powerful, thanks to its exclusive "rooms" based architecture.
 
