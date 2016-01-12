@@ -100,7 +100,7 @@ Table of Contents
 
 [Mail-in-a-Box](https://mailinabox.email) ([`Opensource`](https://github.com/mail-in-a-box/mailinabox)) Mail-in-a-Box lets you become your own mail service provider in a few easy steps. It’s sort of like making your own gmail, but one you control from top to bottom.
 
-[Modoboa](http://modoboa.org) ([`Opensource`](https://github.com/tonioo/modoboa)) Mail hosting and management platform including a modern and simplified Web User Interface. It provides useful components such as an administration panel or a webmail.
+[Modoboa](http://modoboa.org) ([`Opensource`](https://github.com/tonioo/modoboa), [`Demo`](https://demo.modoboa.org/)) Mail hosting and management platform including a modern and simplified Web User Interface. It provides useful components such as an administration panel or a webmail.
 
 [Poste](https://poste.io) (`Free`, [`Demo`](https://poste.io/admin/login#admin@poste.io;admin)) Complete mail server built in docker.
 
