@@ -72,6 +72,8 @@ Table of Contents
 
 #### Client
 
+[N1](https://nylas.com/N1) ([`Opensource`](https://github.com/nylas/N1)) An extensible mail client built on the modern web.
+
 #### Webclient
 
 [AfterLogic WebMail Lite](http://www.afterlogic.org/webmail-lite) ([`Opensource`](https://github.com/afterlogic/webmail-lite), [`Demo`](https://lite.afterlogic.com)) Fast and easy-to-use webmail front-end for your existing IMAP mail server, Plesk or cPanel.
