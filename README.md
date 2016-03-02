@@ -192,6 +192,8 @@ Table of Contents
 
 [Kallithea](https://kallithea-scm.org) ([`Opensource`](https://kallithea-scm.org/repos/kallithea), [`Demo`](https://kallithea-scm.org/repos/)) Free Software source code management system that supports two leading version control systems, Mercurial and Git, and has a web interface that is easy to use for users and admins.
 
+[Pagure](https://pagure.io/) ([`Opensource`](https://pagure.io/pagure), [`Demo`](https://pagure.io)) You can host your project, let your users report issues or request enhancements using the ticketing system and build your community of contributors allowing them to fork your projects and contribute to it via the now-popular pull-request mechanism.
+
 [RhodeCode](https://rhodecode.com) (`Free`, [`Demo`](https://rhodecode.com/register)) On-premise Source Code Management for Mercurial, Git & Subversion.
 
 [SCM Manager](https://www.scm-manager.org) ([`Opensource`](https://bitbucket.org/sdorra/scm-manager/)) The easiest way to share and manage your Git, Mercurial and Subversion repositories over http.
