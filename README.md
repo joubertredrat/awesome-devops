@@ -151,6 +151,16 @@ Table of Contents
 
 [Zimbra](https://www.zimbra.com/open-source) ([`Opensource`](https://github.com/Zimbra)) Zimbra Collaboration Open Source Edition provides administrators and their end users innovative features that solve the challenges faced by organizations using today's legacy communications infrastructure.
 
+#### Gateway
+
+[CipherMail](https://www.ciphermail.com/) (`Free`) Centrally managed email encryption at the gateway level and on mobile devices.
+
+[Scrollout F1](http://www.scrolloutf1.com/) (`Free`) An easy to use, already adjusted email gateway (firewall) offering free anti-spam, anti-virus protection in order to secure all existing email servers, such as Microsoft Exchange, Lotus Domino, Postfix, Exim, Qmail and more.
+
+[MailCleaner](http://www.mailcleaner.org/) (`Free`) MailCleaner is a full email filtering gateway. It includes a complete GNU/Linux OS and a graphical web interface for user and administrative access.
+
+[Xeams](http://www.xeams.com/) (`Free`) Free email server that can be used by any corporation to handle their enterprise email. It works on any operating system and can handle unlimited number of emails and domains. Xeams can work in 3 modes, Stand alone, Spam firewall or Hybrid mode.
+
 
 ## Version Control System "VCS"
 
