@@ -3,12 +3,37 @@ This is the awesome list with all open source and free applications that you can
 
 Table of Contents
 =================
+  - [Cloud Computing](#cloud-computing)
   - [Desktop utilities](#desktop-utilities)
   - [Firewall, Gateway and appliances](#firewall-gateway-and-appliances)
   - [Mail](#mail)
   - [Version Control System "VCS"](#version-control-sistem-vcs)
 
+## Cloud Computing
+
+#### IaaS
+
+[Cracow Cloud One](http://cc1.ifj.edu.pl/en/) ([`Opensource`](https://github.com/cc1-cloud/cc1)) The CC1 system provides a complete solution for Private Cloud Computing.
+
+[CloudStack](https://cloudstack.apache.org/) ([`Opensource`](https://github.com/apache/cloudstack)) Apache CloudStack is open source software designed to deploy and manage large networks of virtual machines, as a highly available, highly scalable Infrastructure as a Service (IaaS) cloud computing platform.
+
+[Helion Eucalyptus](http://www8.hp.com/us/en/cloud/helion-eucalyptus-overview.html) ([`Opensource`](https://github.com/eucalyptus)) Eucalyptus is open source software for building Amazon Web Services-compatible private and hybrid clouds.
+
+[OpenNebula](http://opennebula.org/) ([`Opensource`](https://github.com/OpenNebula)) Simple yet Powerful Turnkey Solution to Build Clouds and Manage Data Center Virtualization.
+
+[OpenStack](https://www.openstack.org/) ([`Opensource`](https://github.com/openstack)) OpenStack controls large pools of compute, storage, and networking resources throughout a datacenter, managed through a dashboard or via the OpenStack API.
+
+[Synnefo](https://www.synnefo.org/) ([`Opensource`](https://github.com/grnet/synnefo)) Synnefo is open source cloud software, used to create massively scalable IaaS clouds.
+
+[Wakame](http://wakame-vdc.org/) ([`Opensource`](https://github.com/axsh/wakame-vdc)) Wakame-vdc is an IaaS cloud computing framework. Basically you can set it up and offer server infrastructure "up in the cloud". Users can control Wakame-vdc through a web browser. 
+
+[ZStack](http://zstack.org/) ([`Opensource`](https://github.com/zstackorg/zstack)) ZStack is open source IaaS software aiming to automate datacenters, managing resources of compute, storage, and networking all by APIs.
+
+#### PaaS
+
+
 ## Desktop utilities
+###### [Top](#table-of-contents)
 
 #### Windows
 
