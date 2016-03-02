@@ -31,6 +31,24 @@ Table of Contents
 
 #### PaaS
 
+[Apache Stratos](https://stratos.apache.org/) ([`Opensource`](https://git-wip-us.apache.org/repos/asf?p=stratos.git)) Highly-extensible PaaS framework that helps run Apache Tomcat, PHP, and MySQL applications and can be extended to support many more environments on all major cloud infrastructures. 
+
+[Cloud Foundry](https://www.cloudfoundry.org/) ([`Opensource`](https://github.com/cloudfoundry)) Cloud Foundry provides deep and varied products and services as a platform as a service.
+
+[Cloudify](http://getcloudify.org/) ([`Opensource`](https://github.com/cloudify-cosmo)) Pure-Play Open Source Cloud Orchestration.
+
+[Convox](https://convox.com/) ([`Opensource`](https://github.com/convox/rack)) Build, deploy, and manage applications with ease.
+
+[Deis](http://deis.io/) ([`Opensource`](https://github.com/deis/deis)) Your PaaS. Your Rules. Open Source Application Platform For Public and Private Clouds.
+
+[Flynn](https://flynn.io/) ([`Opensource`](https://github.com/flynn/flynn)) Flynn deploys apps, scales apps, and manages databases with best practices right out of the box. Automatically doing all the things that were too complicated, expensive, or time consuming to do manually.
+
+[Helion Stackato](http://www8.hp.com/us/en/cloud/helion-devplatform-overview.html) (`Free`) HPE’s Cloud Foundry Foundation-certified PaaS solution, and leads efforts to advance open standards, higher quality, and interchangeability among industry vendors.
+
+[Openshift Origin](https://www.openshift.org/) ([`Opensource`](https://github.com/openshift/origin)) OpenShift 3, build, deploy, and manage your applications with Docker and Kubernetes.
+
+[Tsuru](https://tsuru.io/) ([`Opensource`](https://github.com/tsuru)) Tsuru is an extensible and open source Platform as a Service software.
+
 
 ## Desktop utilities
 ###### [Top](#table-of-contents)
