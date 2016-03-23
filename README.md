@@ -141,6 +141,8 @@ Table of Contents
 
 [iRedMail](http://www.iredmail.org) ([`Opensource`](https://bitbucket.org/zhb/iredmail/src)) A zero cost, fully fledged, full-featured mail server solution.
 
+[Kolab](https://kolab.org) ([`Opensource`](https://github.com/kolab-groupware)) The world's most loved open source collaboration software.
+
 [Mailcow](http://mailcow.email) ([`Opensource`](https://github.com/andryyy/mailcow)) Mailserver suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. In future versions mailcow will provide Cal- and CardDAV support.
 
 [Mail-in-a-Box](https://mailinabox.email) ([`Opensource`](https://github.com/mail-in-a-box/mailinabox)) Mail-in-a-Box lets you become your own mail service provider in a few easy steps. It’s sort of like making your own gmail, but one you control from top to bottom.
@@ -148,6 +150,8 @@ Table of Contents
 [Modoboa](http://modoboa.org) ([`Opensource`](https://github.com/tonioo/modoboa), [`Demo`](https://demo.modoboa.org/)) Mail hosting and management platform including a modern and simplified Web User Interface. It provides useful components such as an administration panel or a webmail.
 
 [Poste](https://poste.io) (`Free`, [`Demo`](https://poste.io/admin/login#admin@poste.io;admin)) Complete mail server built in docker.
+
+[SOGo](http://sogo.nu) ([`Opensource`](https://github.com/inverse-inc/sogo)) Share your calendars, address books and mails in your community with a completely free and open source solution.
 
 [Zimbra](https://www.zimbra.com/open-source) ([`Opensource`](https://github.com/Zimbra)) Zimbra Collaboration Open Source Edition provides administrators and their end users innovative features that solve the challenges faced by organizations using today's legacy communications infrastructure.
 
