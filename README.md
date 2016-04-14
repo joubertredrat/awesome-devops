@@ -149,6 +149,8 @@ Table of Contents
 
 [Modoboa](http://modoboa.org) ([`Opensource`](https://github.com/tonioo/modoboa), [`Demo`](https://demo.modoboa.org/)) Mail hosting and management platform including a modern and simplified Web User Interface. It provides useful components such as an administration panel or a webmail.
 
+[PEPS](http://peps.in) ([`Opensource`](https://github.com/MLstate/PEPS)) Open source Email + File sharing with end-to-end encryption.
+
 [Poste](https://poste.io) (`Free`, [`Demo`](https://poste.io/admin/login#admin@poste.io;admin)) Complete mail server built in docker.
 
 [SOGo](http://sogo.nu) ([`Opensource`](https://github.com/inverse-inc/sogo)) Share your calendars, address books and mails in your community with a completely free and open source solution.
