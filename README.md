@@ -202,6 +202,8 @@ Table of Contents
 
 [Gitblit](http://gitblit.com) ([`Opensource`](https://github.com/gitblit/gitblit)) Gitblit is an open-source, pure Java stack for managing, viewing, and serving Git repositories.
 
+[GitBucket](https://gitbucket.github.io/gitbucket-news/) ([`Opensource`](https://github.com/gitbucket/gitbucket), [`Demo`](https://gitbucket.herokuapp.com)) A Git platform powered by Scala with easy installation, high extensibility & github API compatibility.
+
 [Gitlab Community](http://gitlab.org) ([`Opensource`](https://gitlab.com/gitlab-org/gitlab-ce/tree/master#README), [`Demo`](https://gitlab.com/users/sign_in)) Web-based Git repository manager with wiki and issue tracking features.
 
 [Gogs](http://gogs.io) ([`Opensource`](https://github.com/gogits/gogs), [`Demo`](https://try.gogs.io)) Gogs (Go Git Service) is a painless self-hosted Git service.
