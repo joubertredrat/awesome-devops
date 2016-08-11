@@ -7,7 +7,7 @@ Table of Contents
   - [Desktop utilities](#desktop-utilities)
   - [Firewall, Gateway and appliances](#firewall-gateway-and-appliances)
   - [Mail](#mail)
-  - [Version Control System "VCS"](#version-control-sistem-vcs)
+  - [Version Control System "VCS"](#version-control-system-vcs)
 
 ## Cloud Computing
 
