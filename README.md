@@ -19,6 +19,8 @@ Table of Contents
 
 [Helion Eucalyptus](http://www8.hp.com/us/en/cloud/helion-eucalyptus-overview.html) ([`Opensource`](https://github.com/eucalyptus)) Eucalyptus is open source software for building Amazon Web Services-compatible private and hybrid clouds.
 
+[Mevoco](http://www.mevoco.com/en/) (`Free`) Mevoco is a light-weight private cloud product based on ZStack.
+
 [OpenNebula](http://opennebula.org/) ([`Opensource`](https://github.com/OpenNebula)) Simple yet Powerful Turnkey Solution to Build Clouds and Manage Data Center Virtualization.
 
 [OpenStack](https://www.openstack.org/) ([`Opensource`](https://github.com/openstack)) OpenStack controls large pools of compute, storage, and networking resources throughout a datacenter, managed through a dashboard or via the OpenStack API.
