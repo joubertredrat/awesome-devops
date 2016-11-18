@@ -71,6 +71,8 @@ Table of Contents
 
 #### All (yeah!)
 
+[Insomnia](https://insomnia.rest) (`Free`) A simple, beautiful, and free REST API client.
+
 [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) ([`Opensource`](https://github.com/zaproxy/zaproxy)) The OWASP Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications.
 
 [Synergy](http://synergy-project.org) ([`Opensource`](https://github.com/synergy/synergy)) Synergy combines your desktop devices together in to one cohesive experience. It's software for sharing your mouse and keyboard between multiple computers on your desk. It works on Windows, Mac OS X and Linux.
