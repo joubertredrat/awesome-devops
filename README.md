@@ -60,6 +60,8 @@ Table of Contents
 
 [Buildbot](https://buildbot.net/) ([`Opensource`](https://github.com/buildbot/buildbot)) Buildbot is an open-source framework for automating software build, test, and release processes.
 
+[Deployer](https://deployer.org/) ([`Opensource`](https://github.com/deployphp/deployer)) Deployment tool for PHP.
+
 [Gitlab CI](https://about.gitlab.com/gitlab-ci/) ([`Opensource`](https://gitlab.com/gitlab-org/gitlab-ci)) GitLab has integrated CI and CD to test, build and deploy your code.
 
 [GO CD](https://www.go.cd/) ([`Opensource`](https://github.com/gocd/gocd)) Automate and streamline your build-test-release cycle for reliable, continuous delivery of your product.
@@ -67,6 +69,8 @@ Table of Contents
 [Jenkins](https://jenkins.io/) ([`Opensource`](https://github.com/jenkinsci/jenkins)) Jenkins provides hundreds of plugins to support building, deploying and automating any project.
 
 [PHPCI](https://www.phptesting.org/) ([`Opensource`](https://github.com/block8/phpci)) PHPCI is a free and open source continuous integration tool specifically designed for PHP.
+
+[Strider](https://strider-cd.github.io/) ([`Opensource`](https://github.com/Strider-CD/strider)) Open Source Continuous Integration & Deployment Server.
 
 
 ## Desktop utilities
