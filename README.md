@@ -4,6 +4,7 @@ This is the awesome list with all open source and free applications that you can
 Table of Contents
 =================
   - [Cloud Computing](#cloud-computing)
+  - [Continuous Integration and Continuous Deployment]()
   - [Desktop utilities](#desktop-utilities)
   - [Firewall, Gateway and appliances](#firewall-gateway-and-appliances)
   - [Mail](#mail)
@@ -54,8 +55,12 @@ Table of Contents
 [Tsuru](https://tsuru.io/) ([`Opensource`](https://github.com/tsuru)) Tsuru is an extensible and open source Platform as a Service software.
 
 
+## Continuous Integration and Continuous Deployment
+###### [Go to top](#table-of-contents)
+
+
 ## Desktop utilities
-###### [Top](#table-of-contents)
+###### [Go to top](#table-of-contents)
 
 #### Windows
 
@@ -81,7 +86,7 @@ Table of Contents
 
   
 ## Firewall, Gateway and appliances
-###### [Top](#table-of-contents)
+###### [Go to top](#table-of-contents)
 
 [BrazilFW](http://www.brazilfw.com.br) (`Free`) Mini Linux distribution designed to be used as a Firewall and Router that runs easily on older computers.
 
@@ -111,7 +116,7 @@ Table of Contents
 
 
 ## Mail
-###### [Top](#table-of-contents)
+###### [Go to top](#table-of-contents)
 
 #### Server
 
@@ -175,6 +180,7 @@ Table of Contents
 
 
 ## Version Control System "VCS"
+###### [Go to top](#table-of-contents)
 
 #### VCS
 
@@ -211,6 +217,8 @@ Table of Contents
 [Gitblit](http://gitblit.com) ([`Opensource`](https://github.com/gitblit/gitblit)) Gitblit is an open-source, pure Java stack for managing, viewing, and serving Git repositories.
 
 [GitBucket](https://gitbucket.github.io/gitbucket-news/) ([`Opensource`](https://github.com/gitbucket/gitbucket), [`Demo`](https://gitbucket.herokuapp.com)) A Git platform powered by Scala with easy installation, high extensibility & github API compatibility.
+
+[Gitea](https://gitea.io) ([`Opensource`](https://github.com/go-gitea/gitea)) Gitea: Git with a cup of tea.
 
 [Gitlab Community](http://gitlab.org) ([`Opensource`](https://gitlab.com/gitlab-org/gitlab-ce/tree/master#README), [`Demo`](https://gitlab.com/users/sign_in)) Web-based Git repository manager with wiki and issue tracking features.
 
