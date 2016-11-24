@@ -247,3 +247,7 @@ Table of Contents
 [SCM Manager](https://www.scm-manager.org) ([`Opensource`](https://bitbucket.org/sdorra/scm-manager/)) The easiest way to share and manage your Git, Mercurial and Subversion repositories over http.
 
 [Sourcegraph](https://sourcegraph.com) (`Free`) Sourcegraph is the smarter code host powering top-tier development teams.
+
+#### Tools
+
+[GitList](http://gitlist.org) ([`Opensource`](https://github.com/klaussilveira/gitlist/)) An elegant and modern git repository viewer.
