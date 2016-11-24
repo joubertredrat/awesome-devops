@@ -251,3 +251,5 @@ Table of Contents
 #### Tools
 
 [GitList](http://gitlist.org) ([`Opensource`](https://github.com/klaussilveira/gitlist/)) An elegant and modern git repository viewer.
+
+[Git Webui](https://github.com/alberthier/git-webui) ([`Opensource`](https://github.com/alberthier/git-webui/)) A standalone local web based user interface for git repositories.
