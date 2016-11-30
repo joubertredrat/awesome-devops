@@ -52,6 +52,8 @@ Table of Contents
 
 [Openshift Origin](https://www.openshift.org/) ([`Opensource`](https://github.com/openshift/origin)) OpenShift 3, build, deploy, and manage your applications with Docker and Kubernetes.
 
+[Puffin](http://puffin.rocks/) ([`Opensource`](https://github.com/puffinrocks/puffin/)) Lightweight webapp catalog based on containers, with user interface à la mobile app store.
+
 [Tsuru](https://tsuru.io/) ([`Opensource`](https://github.com/tsuru)) Tsuru is an extensible and open source Platform as a Service software.
 
 
