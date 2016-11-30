@@ -192,6 +192,10 @@ Table of Contents
 
 [Xeams](http://www.xeams.com/) (`Free`) Free email server that can be used by any corporation to handle their enterprise email. It works on any operating system and can handle unlimited number of emails and domains. Xeams can work in 3 modes, Stand alone, Spam firewall or Hybrid mode.
 
+#### Tools
+
+[ViMbAdmin](http://www.vimbadmin.net) ([`Opensource`](https://github.com/opensolutions/ViMbAdmin)) The ViMbAdmin provides a web based virtual mailbox administration system allowing mail administrators to manage domains, mailboxes and aliases.
+
 
 ## Version Control System "VCS"
 ###### [Go to top](#table-of-contents)
@@ -250,8 +254,12 @@ Table of Contents
 
 #### Tools
 
+[cgit](https://git.zx2c4.com/cgit/) ([`Opensource`](https://git.zx2c4.com/cgit/tree/)) A hyperfast web frontend for git repositories written in C.
+
 [GitList](http://gitlist.org) ([`Opensource`](https://github.com/klaussilveira/gitlist/)) An elegant and modern git repository viewer.
 
 [GitPHP](https://gitphp.org) ([`Opensource`](https://github.com/xiphux/gitphp/)) Web frontend for git repositories. It emulates the look of standard gitweb, but is written in PHP and makes use of Smarty templates for customization..
 
 [Git Webui](https://github.com/alberthier/git-webui) ([`Opensource`](https://github.com/alberthier/git-webui/)) A standalone local web based user interface for git repositories.
+
+[Git Web Access](http://gitweb.codeplex.com/) ([`Opensource`](https://github.com/yysun/Git-Web-Access/)) Provides an ASP.NET HttpHandler that let you run Smart HTTP Git on IIS.
