@@ -242,6 +242,10 @@ Table of Contents
 
 [Gitlab Community](http://gitlab.org) ([`Opensource`](https://gitlab.com/gitlab-org/gitlab-ce/tree/master#README), [`Demo`](https://gitlab.com/users/sign_in)) Web-based Git repository manager with wiki and issue tracking features.
 
+[Gitolite](https://github.com/sitaramc/gitolite/wiki) ([`Opensource`](https://github.com/sitaramc/gitolite)) Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
+
+[gitprep](http://gitprep.yukikimoto.com) ([`Opensource`](https://github.com/yuki-kimoto/gitprep), [`Demo`](http://perlcodesample.sakura.ne.jp/gitprep/gitprep.cgi)) Portable GitHub system into your own server.
+
 [Gogs](http://gogs.io) ([`Opensource`](https://github.com/gogits/gogs), [`Demo`](https://try.gogs.io)) Gogs (Go Git Service) is a painless self-hosted Git service.
 
 [Kallithea](https://kallithea-scm.org) ([`Opensource`](https://kallithea-scm.org/repos/kallithea), [`Demo`](https://kallithea-scm.org/repos/)) Free Software source code management system that supports two leading version control systems, Mercurial and Git, and has a web interface that is easy to use for users and admins.
@@ -253,6 +257,8 @@ Table of Contents
 [SCM Manager](https://www.scm-manager.org) ([`Opensource`](https://bitbucket.org/sdorra/scm-manager/)) The easiest way to share and manage your Git, Mercurial and Subversion repositories over http.
 
 [Sourcegraph](https://sourcegraph.com) (`Free`) Sourcegraph is the smarter code host powering top-tier development teams.
+
+[VisualSVN Server](https://www.visualsvn.com/server/) (`Free`) VisualSVN Server makes the Subversion server easy and convenient to install and administer on Windows.
 
 #### Tools
 
