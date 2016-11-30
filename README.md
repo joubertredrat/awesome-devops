@@ -252,4 +252,6 @@ Table of Contents
 
 [GitList](http://gitlist.org) ([`Opensource`](https://github.com/klaussilveira/gitlist/)) An elegant and modern git repository viewer.
 
+[GitPHP](https://gitphp.org) ([`Opensource`](https://github.com/xiphux/gitphp/)) Web frontend for git repositories. It emulates the look of standard gitweb, but is written in PHP and makes use of Smarty templates for customization..
+
 [Git Webui](https://github.com/alberthier/git-webui) ([`Opensource`](https://github.com/alberthier/git-webui/)) A standalone local web based user interface for git repositories.
