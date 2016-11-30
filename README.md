@@ -86,7 +86,9 @@ Table of Contents
 
 [CurrPorts](http://www.nirsoft.net/utils/cports.html) (`Free`) CurrPorts is network monitoring software that displays the list of all currently opened TCP/IP and UDP ports on your local computer.
 
-[Rufus](https://rufus.akeo.ie) ([`Opensource`](https://github.com/pbatard/rufus)) The Reliable USB Formatting Utility.
+[RapidCRC Unicode](https://www.ov2.eu/programs/rapidcrc-unicode) ([`Opensource`](https://github.com/OV2/RapidCRC-Unicode/)) Windows tool to quickly create and verify hash checksums.
+
+[Rufus](https://rufus.akeo.ie) ([`Opensource`](https://github.com/pbatard/rufus/)) The Reliable USB Formatting Utility.
 
 #### Linux
 
