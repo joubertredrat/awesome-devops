@@ -266,6 +266,8 @@ Table of Contents
 
 [cgit](https://git.zx2c4.com/cgit/) ([`Opensource`](https://git.zx2c4.com/cgit/tree/)) A hyperfast web frontend for git repositories written in C.
 
+[iF.SVNAdmin](http://svnadmin.insanefactory.com/) ([`Opensource`](https://github.com/mfreiholz/iF.SVNAdmin/)) Web-based GUI to manage Subversion repositories and User/Group permissions (+LDAP support).
+
 [GitList](http://gitlist.org) ([`Opensource`](https://github.com/klaussilveira/gitlist/)) An elegant and modern git repository viewer.
 
 [GitPHP](https://gitphp.org) ([`Opensource`](https://github.com/xiphux/gitphp/)) Web frontend for git repositories. It emulates the look of standard gitweb, but is written in PHP and makes use of Smarty templates for customization..
@@ -273,3 +275,5 @@ Table of Contents
 [Git Webui](https://github.com/alberthier/git-webui) ([`Opensource`](https://github.com/alberthier/git-webui/)) A standalone local web based user interface for git repositories.
 
 [Git Web Access](http://gitweb.codeplex.com/) ([`Opensource`](https://github.com/yysun/Git-Web-Access/)) Provides an ASP.NET HttpHandler that let you run Smart HTTP Git on IIS.
+
+[WebSVN](http://www.websvn.info/) ([`Opensource`](http://websvn.tigris.org/)) WebSVN offers a view onto your subversion repositories. You can view the log of any file or directory and see a list of all the files changed, added or deleted in any given revision.
