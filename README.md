@@ -34,7 +34,9 @@ Table of Contents
 
 #### PaaS
 
-[Apache Stratos](https://stratos.apache.org/) ([`Opensource`](https://git-wip-us.apache.org/repos/asf?p=stratos.git)) Highly-extensible PaaS framework that helps run Apache Tomcat, PHP, and MySQL applications and can be extended to support many more environments on all major cloud infrastructures. 
+[Apache Stratos](https://stratos.apache.org/) ([`Opensource`](https://git-wip-us.apache.org/repos/asf?p=stratos.git)) Highly-extensible PaaS framework that helps run Apache Tomcat, PHP, and MySQL applications and can be extended to support many more environments on all major cloud infrastructures.
+
+[Atlantis](https://github.com/ooyala/atlantis/) ([`Opensource`](https://github.com/ooyala/atlantis/)) Atlantis is an Open Source PaaS for HTTP applications built on Docker and written in Go. It makes it easy to build and deploy applications in a safe, repeatable fashion, and flexibly route requests to the appropriate containers.
 
 [Cloud Foundry](https://www.cloudfoundry.org/) ([`Opensource`](https://github.com/cloudfoundry)) Cloud Foundry provides deep and varied products and services as a platform as a service.
 
@@ -46,13 +48,19 @@ Table of Contents
 
 [Deis](http://deis.io/) ([`Opensource`](https://github.com/deis/deis)) Your PaaS. Your Rules. Open Source Application Platform For Public and Private Clouds.
 
+[Dokku](http://dokku.viewdocs.io/dokku/) ([`Opensource`](https://github.com/dokku/dokku)) A docker-powered mini-Heroku PaaS that helps you build and manage the lifecycle of applications. The smallest PaaS implementation you've ever seen.
+
 [Flynn](https://flynn.io/) ([`Opensource`](https://github.com/flynn/flynn)) Flynn deploys apps, scales apps, and manages databases with best practices right out of the box. Automatically doing all the things that were too complicated, expensive, or time consuming to do manually.
 
 [Helion Stackato](http://www8.hp.com/us/en/cloud/helion-devplatform-overview.html) (`Free`) HPE’s Cloud Foundry Foundation-certified PaaS solution, and leads efforts to advance open standards, higher quality, and interchangeability among industry vendors.
 
+[Kel](http://www.kelproject.com/) ([`Opensource`](https://github.com/kelproject)) An open-source, Kubernetes-based PaaS built in Python and Go.
+
 [Openshift Origin](https://www.openshift.org/) ([`Opensource`](https://github.com/openshift/origin)) OpenShift 3, build, deploy, and manage your applications with Docker and Kubernetes.
 
 [Puffin](http://puffin.rocks/) ([`Opensource`](https://github.com/puffinrocks/puffin/)) Lightweight webapp catalog based on containers, with user interface à la mobile app store.
+
+[SlipStream](http://sixsq.com/products/slipstream/) ([`Opensource`](https://github.com/slipstream/SlipStream/)) SlipStream open source PaaS, App Store and DevOps engine.
 
 [Tsuru](https://tsuru.io/) ([`Opensource`](https://github.com/tsuru)) Tsuru is an extensible and open source Platform as a Service software.
 
