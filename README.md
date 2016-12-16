@@ -36,7 +36,7 @@ Table of Contents
 
 [Apache Stratos](https://stratos.apache.org/) ([`Opensource`](https://git-wip-us.apache.org/repos/asf?p=stratos.git)) Highly-extensible PaaS framework that helps run Apache Tomcat, PHP, and MySQL applications and can be extended to support many more environments on all major cloud infrastructures.
 
-[Atlantis](https://github.com/ooyala/atlantis/) ([`Opensource`](https://github.com/ooyala/atlantis/)) Atlantis is an Open Source PaaS for HTTP applications built on Docker and written in Go. It makes it easy to build and deploy applications in a safe, repeatable fashion, and flexibly route requests to the appropriate containers.
+[Atlantis](http://ooyala.github.io/atlantis/) ([`Opensource`](https://github.com/ooyala/atlantis/)) Atlantis is an Open Source PaaS for HTTP applications built on Docker and written in Go. It makes it easy to build and deploy applications in a safe, repeatable fashion, and flexibly route requests to the appropriate containers.
 
 [Cloud Foundry](https://www.cloudfoundry.org/) ([`Opensource`](https://github.com/cloudfoundry)) Cloud Foundry provides deep and varied products and services as a platform as a service.
 
