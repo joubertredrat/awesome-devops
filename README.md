@@ -218,6 +218,8 @@ Table of Contents
 
 [Bazaar](http://bazaar.canonical.com) ([`Opensource`](https://code.launchpad.net/bzr)) Distributed VCS that enables easy collaborative development. One of Bazaar's strengths is its adaptibility to different work flows, centralized, distributed or anything in between.
 
+[BitKeeper](https://www.bitkeeper.org) ([`Opensource`](https://github.com/bitkeeper-scm/bitkeeper)) BitKeeper is a fast, enterprise-ready, distributed SCM that scales up to very large projects and down to tiny ones.
+
 [CVS](https://savannah.nongnu.org/projects/cvs) ([`Opensource`](http://web.cvs.savannah.gnu.org/viewvc/?root=cvs)) Concurrent Versions System is a version control system, an important component of Source Configuration Management (SCM). Using it, you can record the history of sources files, and documents.
 
 [Darcs](http://darcs.net) ([`Opensource`](http://darcs.net/releases/)) Free and open source, cross-platform version control system, like git, mercurial or svn but with a very different approach: focus on changes rather than snapshots.
