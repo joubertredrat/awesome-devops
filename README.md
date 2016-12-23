@@ -16,6 +16,8 @@ Table of Contents
 
 [Cracow Cloud One](http://cc1.ifj.edu.pl/en/) ([`Opensource`](https://github.com/cc1-cloud/cc1)) The CC1 system provides a complete solution for Private Cloud Computing.
 
+[CloudOver](http://cloudover.org/) ([`Opensource`](https://github.com/cloudOver)) CloudOver project is a cloud computing challenge to create simple and scalable open source platform for IaaS cloud environments.
+
 [CloudStack](https://cloudstack.apache.org/) ([`Opensource`](https://github.com/apache/cloudstack)) Apache CloudStack is open source software designed to deploy and manage large networks of virtual machines, as a highly available, highly scalable Infrastructure as a Service (IaaS) cloud computing platform.
 
 [Helion Eucalyptus](http://www8.hp.com/us/en/cloud/helion-eucalyptus-overview.html) ([`Opensource`](https://github.com/eucalyptus)) Eucalyptus is open source software for building Amazon Web Services-compatible private and hybrid clouds.
