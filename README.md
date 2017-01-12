@@ -30,7 +30,7 @@ Table of Contents
 
 [Synnefo](https://www.synnefo.org/) ([`Opensource`](https://github.com/grnet/synnefo)) Synnefo is open source cloud software, used to create massively scalable IaaS clouds.
 
-[Wakame](http://wakame-vdc.org/) ([`Opensource`](https://github.com/axsh/wakame-vdc)) Wakame-vdc is an IaaS cloud computing framework. Basically you can set it up and offer server infrastructure "up in the cloud". Users can control Wakame-vdc through a web browser. 
+[Wakame](http://wakame-vdc.org/) ([`Opensource`](https://github.com/axsh/wakame-vdc)) Wakame-vdc is an IaaS cloud computing framework. Basically you can set it up and offer server infrastructure "up in the cloud". Users can control Wakame-vdc through a web browser.
 
 [ZStack](http://zstack.org/) ([`Opensource`](https://github.com/zstackorg/zstack)) ZStack is open source IaaS software aiming to automate datacenters, managing resources of compute, storage, and networking all by APIs.
 
@@ -74,11 +74,17 @@ Table of Contents
 
 [Buildbot](https://buildbot.net/) ([`Opensource`](https://github.com/buildbot/buildbot)) Buildbot is an open-source framework for automating software build, test, and release processes.
 
+[Concourse](http://concourse.ci/) ([`Opensource`](https://github.com/concourse/concourse)) Concourse is a pipeline-based CI system written in Go.
+
+[CruiseControl](http://cruisecontrol.sourceforge.net/) ([`Opensource`](http://cruisecontrol.sourceforge.net/svn.html)) CruiseControl is both a continuous integration tool and an extensible framework for creating a custom continuous build process.
+
 [Deployer](https://deployer.org/) ([`Opensource`](https://github.com/deployphp/deployer)) Deployment tool for PHP.
 
 [Gitlab CI](https://about.gitlab.com/gitlab-ci/) ([`Opensource`](https://gitlab.com/gitlab-org/gitlab-ci)) GitLab has integrated CI and CD to test, build and deploy your code.
 
 [GO CD](https://www.go.cd/) ([`Opensource`](https://github.com/gocd/gocd)) Automate and streamline your build-test-release cycle for reliable, continuous delivery of your product.
+
+[Integrity](http://integrity.github.io/) ([`Opensource`](https://github.com/integrity/integrity)) Continuous Integration server.
 
 [Jenkins](https://jenkins.io/) ([`Opensource`](https://github.com/jenkinsci/jenkins)) Jenkins provides hundreds of plugins to support building, deploying and automating any project.
 
@@ -114,7 +120,7 @@ Table of Contents
 
 [Synergy](http://synergy-project.org) ([`Opensource`](https://github.com/synergy/synergy)) Synergy combines your desktop devices together in to one cohesive experience. It's software for sharing your mouse and keyboard between multiple computers on your desk. It works on Windows, Mac OS X and Linux.
 
-  
+
 ## Firewall, Gateway and appliances
 ###### [Go to top](#table-of-contents)
 
