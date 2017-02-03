@@ -114,6 +114,8 @@ Table of Contents
 
 #### All (yeah!)
 
+[Etcher](https://etcher.io) ([`Opensource`](https://github.com/resin-io/etcher)) Burn images to SD cards & USB drives, safe & easy.
+
 [Insomnia](https://insomnia.rest) (`Free`) A simple, beautiful, and free REST API client.
 
 [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) ([`Opensource`](https://github.com/zaproxy/zaproxy)) The OWASP Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications.
