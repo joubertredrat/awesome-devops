@@ -92,6 +92,9 @@ Table of Contents
 
 [Strider](https://strider-cd.github.io/) ([`Opensource`](https://github.com/Strider-CD/strider)) Open Source Continuous Integration & Deployment Server.
 
+[TeamCity](https://www.jetbrains.com/teamcity/) (`Free`) Powerful Continuous Integration
+out of the box.
+
 
 ## Desktop utilities
 ###### [Go to top](#table-of-contents)
