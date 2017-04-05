@@ -295,6 +295,8 @@ out of the box.
 
 [iF.SVNAdmin](http://svnadmin.insanefactory.com/) ([`Opensource`](https://github.com/mfreiholz/iF.SVNAdmin/)) Web-based GUI to manage Subversion repositories and User/Group permissions (+LDAP support).
 
+[Git Cola](http://git-cola.github.io/) ([`Opensource`](https://github.com/git-cola/git-cola)) Git Cola is a sleek and powerful graphical user interface for Git.
+
 [GitList](http://gitlist.org) ([`Opensource`](https://github.com/klaussilveira/gitlist/)) An elegant and modern git repository viewer.
 
 [GitPHP](https://gitphp.org) ([`Opensource`](https://github.com/xiphux/gitphp/)) Web frontend for git repositories. It emulates the look of standard gitweb, but is written in PHP and makes use of Smarty templates for customization..
