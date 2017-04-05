@@ -117,6 +117,8 @@ out of the box.
 
 #### All (yeah!)
 
+[Camunda](https://camunda.org/) ([`Opensource`](https://github.com/camunda)) Camunda is an open source platform for workflow and business process management.
+
 [Etcher](https://etcher.io) ([`Opensource`](https://github.com/resin-io/etcher)) Burn images to SD cards & USB drives, safe & easy.
 
 [Insomnia](https://insomnia.rest) (`Free`) A simple, beautiful, and free REST API client.
