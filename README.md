@@ -30,7 +30,7 @@ Table of Contents
 
 [Openstack](https://www.openstack.org/) ([`Opensource`](https://github.com/openstack)) OpenStack controls large pools of compute, storage, and networking resources throughout a datacenter, managed through a dashboard or via the OpenStack API.
 
-[Proxmox VE](https://www.proxmox.com/en/proxmox-ve) (`Free`) A complete open source server virtualization management software based on KVM and container-based virtualization and manages virtual machines, Linux containers, storage, virtualized networks, and HA clusters.
+[Proxmox VE](https://www.proxmox.com/en/proxmox-ve) ([`Opensource`](https://git.proxmox.com)) A complete open source server virtualization management software based on KVM and container-based virtualization and manages virtual machines, Linux containers, storage, virtualized networks, and HA clusters.
 
 [Synnefo](https://www.synnefo.org/) ([`Opensource`](https://github.com/grnet/synnefo)) Synnefo is open source cloud software, used to create massively scalable IaaS clouds.
 
