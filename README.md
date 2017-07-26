@@ -269,7 +269,7 @@ out of the box.
 
 [Gitblit](http://gitblit.com) ([`Opensource`](https://github.com/gitblit/gitblit)) Gitblit is an open-source, pure Java stack for managing, viewing, and serving Git repositories.
 
-[GitBucket](https://gitbucket.github.io/gitbucket-news/) ([`Opensource`](https://github.com/gitbucket/gitbucket), [`Demo`](https://gitbucket.herokuapp.com)) A Git platform powered by Scala with easy installation, high extensibility & github API compatibility.
+[GitBucket](https://gitbucket.github.io) ([`Opensource`](https://github.com/gitbucket/gitbucket), [`Demo`](https://gitbucket.herokuapp.com)) A Git platform powered by Scala with easy installation, high extensibility & github API compatibility.
 
 [Gitea](https://gitea.io) ([`Opensource`](https://github.com/go-gitea/gitea)) Gitea: Git with a cup of tea.
 
