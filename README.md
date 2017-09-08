@@ -84,6 +84,8 @@ Table of Contents
 
 [Deployer](https://deployer.org/) ([`Opensource`](https://github.com/deployphp/deployer)) Deployment tool for PHP.
 
+[Drone](https://drone.io/) ([`Opensource`](https://github.com/drone/drone)) Drone is a Continuous Delivery platform built on Docker, written in Go.
+
 [Gitlab CI](https://about.gitlab.com/gitlab-ci/) ([`Opensource`](https://gitlab.com/gitlab-org/gitlab-ci)) GitLab has integrated CI and CD to test, build and deploy your code.
 
 [GO CD](https://www.go.cd/) ([`Opensource`](https://github.com/gocd/gocd)) Automate and streamline your build-test-release cycle for reliable, continuous delivery of your product.
