@@ -72,6 +72,14 @@ Table of Contents
 
 [Tsuru](https://tsuru.io/) ([`Opensource`](https://github.com/tsuru)) Tsuru is an extensible and open source Platform as a Service software.
 
+#### CaaS/FaaS
+
+[AMP](https://github.com/appcelerator/amp) ([`Opensource`](https://github.com/appcelerator/amp)) An open source CaaS for Docker, batteries included.
+
+[ATOMIQ](http://atomiq.io/) ([`Opensource`](https://github.com/jhaynie/atomiq)) The open source unified CaaS / FaaS platform for Docker, batteries included.
+
+[OpenFaaS](https://github.com/openfaas/faas) ([`Opensource`](https://github.com/openfaas/faas)) Serverless Functions Made Simple.
+
 
 ## Continuous Integration and Continuous Deployment
 ###### [Go to top](#table-of-contents)
