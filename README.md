@@ -76,9 +76,17 @@ Table of Contents
 
 [AMP](https://github.com/appcelerator/amp) ([`Opensource`](https://github.com/appcelerator/amp)) An open source CaaS for Docker, batteries included.
 
+[Apache OpenWhisk](http://openwhisk.incubator.apache.org) ([`Opensource`](https://github.com/apache?q=openwhisk)) A serverless, open source cloud platform that executes functions in response to events at any scale.
+
 [ATOMIQ](http://atomiq.io/) ([`Opensource`](https://github.com/jhaynie/atomiq)) The open source unified CaaS / FaaS platform for Docker, batteries included.
 
-[OpenFaaS](https://github.com/openfaas/faas) ([`Opensource`](https://github.com/openfaas/faas)) Serverless Functions Made Simple.
+[Fission](http://fission.io/) ([`Opensource`](https://github.com/fission/fission)) Fission is a framework for serverless functions on Kubernetes.
+
+[IronFunctions](http://open.iron.io/) ([`Opensource`](https://github.com/iron-io/functions)) IronFunctions is an open source serverless computing platform for any cloud - private, public, or hybrid.
+
+[OpenFaaS](https://www.openfaas.com/) ([`Opensource`](https://github.com/openfaas/faas)) Serverless Functions Made Simple.
+
+[OpenLambda](https://github.com/open-lambda/open-lambda) ([`Opensource`](https://github.com/open-lambda/open-lambda)) An Apache-licensed serverless computing project, written in Go and based on Linux containers.
 
 
 ## Continuous Integration and Continuous Deployment
