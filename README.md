@@ -24,8 +24,6 @@ Table of Contents
 
 [Eucalyptus](https://www.eucalyptus.cloud/) ([`Opensource`](https://github.com/corymbia/eucalyptus)) Eucalyptus is open source software for building Amazon Web Services-compatible private and hybrid clouds.
 
-[Mevoco](http://www.mevoco.com/en/) (`Free`) Mevoco is a light-weight private cloud product based on ZStack.
-
 [OpenNebula](http://opennebula.org/) ([`Opensource`](https://github.com/OpenNebula)) Simple yet Powerful Turnkey Solution to Build Clouds and Manage Data Center Virtualization.
 
 [Openstack](https://www.openstack.org/) ([`Opensource`](https://github.com/openstack)) OpenStack controls large pools of compute, storage, and networking resources throughout a datacenter, managed through a dashboard or via the OpenStack API.
@@ -36,7 +34,7 @@ Table of Contents
 
 [Wakame](http://wakame-vdc.org/) ([`Opensource`](https://github.com/axsh/wakame-vdc)) Wakame-vdc is an IaaS cloud computing framework. Basically you can set it up and offer server infrastructure "up in the cloud". Users can control Wakame-vdc through a web browser.
 
-[ZStack](http://zstack.org/) ([`Opensource`](https://github.com/zstackorg/zstack)) ZStack is open source IaaS software aiming to automate datacenters, managing resources of compute, storage, and networking all by APIs.
+[ZStack](http://en.zstack.io/) ([`Opensource`](https://github.com/zstackorg/zstack)) ZStack is open source IaaS software aiming to automate datacenters, managing resources of compute, storage, and networking all by APIs.
 
 #### PaaS
 
