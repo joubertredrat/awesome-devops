@@ -22,7 +22,7 @@ Table of Contents
 
 [Danube Cloud](https://danubecloud.org/) ([`Opensource`](https://github.com/erigones/esdc-ce)) Datacenter delivered.
 
-[Helion Eucalyptus](http://www8.hp.com/us/en/cloud/helion-eucalyptus-overview.html) ([`Opensource`](https://github.com/eucalyptus)) Eucalyptus is open source software for building Amazon Web Services-compatible private and hybrid clouds.
+[Eucalyptus](https://www.eucalyptus.cloud/) ([`Opensource`](https://github.com/corymbia/eucalyptus)) Eucalyptus is open source software for building Amazon Web Services-compatible private and hybrid clouds.
 
 [Mevoco](http://www.mevoco.com/en/) (`Free`) Mevoco is a light-weight private cloud product based on ZStack.
 
