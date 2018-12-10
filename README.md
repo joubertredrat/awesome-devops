@@ -90,6 +90,8 @@ Table of Contents
 ## Continuous Integration and Continuous Deployment
 ###### [Go to top](#table-of-contents)
 
+[Abstruse](https://abstruse.bleenco.io/) ([`Opensource`](https://github.com/bleenco/abstruse)) A Continuous Integration platform requiring zero or minimal configuration to get started, providing safe testing and deployment environment using Docker containers.
+
 [Buildbot](https://buildbot.net/) ([`Opensource`](https://github.com/buildbot/buildbot)) Buildbot is an open-source framework for automating software build, test, and release processes.
 
 [Concourse](http://concourse.ci/) ([`Opensource`](https://github.com/concourse/concourse)) Concourse is a pipeline-based CI system written in Go.
