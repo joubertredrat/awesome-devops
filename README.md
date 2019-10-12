@@ -271,6 +271,8 @@ out of the box.
 
 #### Client
 
+[GitHub Desktop](https://desktop.github.com/) ([`Opensource`](https://github.com/desktop/desktop)) GitHub Desktop is an open source Electron-based GitHub app. It is written in TypeScript and uses React.
+
 [NaughtySVN](http://naughtysvn.tigris.org) ([`Opensource`](https://github.com/kcaalexander/NaughtySVN)) A Nautilus extension for Subversion.
 
 [PagaVCS](https://code.google.com/p/pagavcs) ([`Opensource`](https://github.com/gborp/pagavcs)) PagaVCS is a Nautilus, Thunar and mugCommander integrated TortoiseSVN clone, Subversion GUI client for Linux desktop.
