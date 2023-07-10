@@ -231,6 +231,8 @@ out of the box.
 
 [Modoboa](http://modoboa.org) ([`Opensource`](https://github.com/tonioo/modoboa), [`Demo`](https://demo.modoboa.org/)) Mail hosting and management platform including a modern and simplified Web User Interface. It provides useful components such as an administration panel or a webmail.
 
+[OpenMeter](http://openmeter.io/) ([`Opensource`](https://github.com/openmeterio/openmeter) Usage metering for DevOps and Infrastructure use-cases.
+
 [PEPS](http://peps.in) ([`Opensource`](https://github.com/MLstate/PEPS)) Open source Email + File sharing with end-to-end encryption.
 
 [Poste](https://poste.io) (`Free`, [`Demo`](https://poste.io/admin/login#admin@poste.io;admin)) Complete mail server built in docker.
