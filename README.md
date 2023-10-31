@@ -44,11 +44,13 @@ Table of Contents
 
 [Atlantis](http://ooyala.github.io/atlantis/) ([`Opensource`](https://github.com/ooyala/atlantis/)) Atlantis is an Open Source PaaS for HTTP applications built on Docker and written in Go. It makes it easy to build and deploy applications in a safe, repeatable fashion, and flexibly route requests to the appropriate containers.
 
+[Cloud 66](https://www.cloud66.com/) (`Free Plan`) DevOps as a service that helps to build, deploy and manage any application on any cloud or server. PaaS on your own cloud.
+
 [Cloud Foundry](https://www.cloudfoundry.org/) ([`Opensource`](https://github.com/cloudfoundry)) Cloud Foundry provides deep and varied products and services as a platform as a service.
 
 [Cloudify](http://getcloudify.org/) ([`Opensource`](https://github.com/cloudify-cosmo)) Pure-Play Open Source Cloud Orchestration.
 
-[Cloudron](https://cloudron.io/) ([`Opensource`](https://git.cloudron.io/cloudron/box)) Effortlessly Self-Host Web Apps. Cloudron is a platform to run apps on your server.
+[Cloudron](https://cloudron.io/) ([`Opensource`](https://git.cloudron.io/cloudron/box)) Effortlessly Self-Host Web Apps. Cloudron is a platform to run apps on your server. 
 
 [Convox](https://convox.com/) ([`Opensource`](https://github.com/convox/rack)) Build, deploy, and manage applications with ease.
 
