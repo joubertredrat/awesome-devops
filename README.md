@@ -336,3 +336,5 @@ out of the box.
 [ViewVC](http://www.viewvc.org/) ([`Opensource`](https://github.com/viewvc/viewvc/)) ViewVC is a browser interface for CVS and Subversion version control repositories. It generates templatized HTML to present navigable directory, revision, and change log listings.
 
 [WebSVN](http://www.websvn.info/) ([`Opensource`](http://websvn.tigris.org/)) WebSVN offers a view onto your subversion repositories. You can view the log of any file or directory and see a list of all the files changed, added or deleted in any given revision.
+
+[Watermelon](https://www.watermelontools.com/) ([`Opensource`](https://github.com/watermelontools/watermelon) An open source copilot for code review
