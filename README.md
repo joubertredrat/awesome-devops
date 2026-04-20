@@ -106,6 +106,8 @@ Table of Contents
 
 [Deployer](https://deployer.org/) ([`Opensource`](https://github.com/deployphp/deployer)) Deployment tool for PHP.
 
+[FailureMemory](https://github.com/marketplace/actions/failurememory) ([`Opensource`](https://github.com/UnguisAI/failurememory)) GitHub Action for recurring CI failure fingerprinting and memory-backed triage for GitHub Actions.
+
 [Drone](https://drone.io/) ([`Opensource`](https://github.com/drone/drone)) Drone is a Continuous Delivery platform built on Docker, written in Go.
 
 [Gitploy](https://www.gitploy.io/) ([`Opensource`](https://github.com/gitploy-io/gitploy)) Build the deployment system around GitHub in minutes.
