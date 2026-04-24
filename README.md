@@ -10,6 +10,11 @@ Table of Contents
   - [Mail](#mail)
   - [Version Control System "VCS"](#version-control-system-vcs)
 
+## Monitoring and Observability
+###### [Go to top](#table-of-contents)
+
+[KubeStellar Console](https://console.kubestellar.io) ([`Opensource`](https://github.com/kubestellar/console)) AI-powered multi-cluster Kubernetes dashboard with real-time observability, CNCF project integrations (Argo, Kyverno, Prometheus, Grafana, Istio, Flux, and 20+ others), AI-guided operations, and edge/cloud cluster management.
+
 ## Cloud Computing
 
 #### IaaS
