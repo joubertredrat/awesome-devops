@@ -66,6 +66,9 @@ Table of Contents
 
 [Koyeb](https://www.koyeb.com/) (`Free`) Koyeb is the fastest way to deploy applications globally. Koyeb is written in Go and deploys workloads in [Firecracker microVMs](https://firecracker-microvm.github.io/) running on bare metal servers. Continuously deploy worldwide with a `git push`.
 
+
+[KubeStellar Console](https://console.kubestellar.io) ([`Opensource`](https://github.com/kubestellar/console)) AI-powered multi-cluster Kubernetes dashboard with real-time observability, AI-guided operations, and 20+ CNCF project integrations. CNCF Sandbox project.
+
 [Last.Backend](https://lastbackend.com/) ([`Opensource`](https://github.com/lastbackend/lastbackend)) OLast.Backend is an open-source platform, which allows you build a personal cloud on your servers based on kubernetes technology.
 
 [Openshift Origin](https://www.openshift.org/) ([`Opensource`](https://github.com/openshift/origin)) OpenShift 3, build, deploy, and manage your applications with Docker and Kubernetes.
