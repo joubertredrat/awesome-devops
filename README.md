@@ -297,6 +297,8 @@ out of the box.
 
 [Bonobo Git Server](https://bonobogitserver.com) ([`Opensource`](https://github.com/jakubgarfield/Bonobo-Git-Server)) Set up your own self hosted git server on IIS for Windows. Manage users and have full control over your repositories with a nice user friendly graphical interface.
 
+[CodeFever Community](https://github.com/PGYER/codefever) ([`Opensource`](https://github.com/PGYER/codefever)) Completely free and open-source self-hosted Git code hosting platform written in PHP, vendor-maintained by PGYER. Docker-deployable.
+
 [Gitblit](http://gitblit.com) ([`Opensource`](https://github.com/gitblit/gitblit)) Gitblit is an open-source, pure Java stack for managing, viewing, and serving Git repositories.
 
 [GitBucket](https://gitbucket.github.io) ([`Opensource`](https://github.com/gitbucket/gitbucket), [`Demo`](https://gitbucket.herokuapp.com)) A Git platform powered by Scala with easy installation, high extensibility & github API compatibility.
