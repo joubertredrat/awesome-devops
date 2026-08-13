@@ -9,6 +9,7 @@ Table of Contents
   - [Firewall, Gateway and appliances](#firewall-gateway-and-appliances)
   - [Mail](#mail)
   - [Version Control System "VCS"](#version-control-system-vcs)
+- [n8n JSON Feed to Telegram](https://github.com/DeusAcc/n8n-json-feed-to-telegram) - Free n8n workflow that polls a JSON endpoint and alerts on Telegram only for new entries.
 
 ## Cloud Computing
 
