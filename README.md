@@ -58,6 +58,8 @@ Table of Contents
 
 [Dokku](http://dokku.viewdocs.io/dokku/) ([`Opensource`](https://github.com/dokku/dokku)) A docker-powered mini-Heroku PaaS that helps you build and manage the lifecycle of applications. The smallest PaaS implementation you've ever seen.
 
+[Peon](https://peon.sh/) ([`Opensource`](https://github.com/Peon-sh/Peon)) Open-source self-hosted Docker PaaS with project RBAC, audit logs, and MCP — Coolify/Dokploy alternative.
+
 [Flynn](https://flynn.io/) ([`Opensource`](https://github.com/flynn/flynn)) Flynn deploys apps, scales apps, and manages databases with best practices right out of the box. Automatically doing all the things that were too complicated, expensive, or time consuming to do manually.
 
 [Helion Stackato](http://www8.hp.com/us/en/cloud/helion-devplatform-overview.html) (`Free`) HPE’s Cloud Foundry Foundation-certified PaaS solution, and leads efforts to advance open standards, higher quality, and interchangeability among industry vendors.
